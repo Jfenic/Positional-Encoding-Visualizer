@@ -18,8 +18,8 @@ This contains everything you need to run your app locally.
 3. Run the app: `npm run dev`
 
 The app will be running at `http://localhost:3000`.
-![run you local](positional_encoding_visualizer_example/image/image.png)
+![run you local](positional-encoding-visualizer_example/image/image.png)
 
 
 Exmple app
-![Example](positional_encoding_visualizer_example/image/image-1.png)
+![Example](positional-encoding-visualizer_example/image/image-1.png)
