@@ -1,0 +1,5 @@
+{
+  "name": "Positional Encoding Visualizer",
+  "description": "An educational interactive tool demonstrating how Sinusoidal Positional Encoding alters word vectors in NLP transformers, highlighting that order matters.",
+  "requestFramePermissions": []
+}
